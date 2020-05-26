@@ -6,7 +6,7 @@ In the requirements are packages to be installed by the heroku cloud.
 
 Leave Procfile without extension.
 
-Get your guild ID from the discord server and replace within the code bot.py: <discord-server-id>
+Get your guild ID from the discord server and replace within the code bot.py: discord-server-id
   
 Get your channel IDs from your discord server and replace within the code bot.py: 
 signupchannel-id, botchannel-id
