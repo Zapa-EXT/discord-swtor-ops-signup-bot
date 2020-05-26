@@ -8,8 +8,10 @@ Leave Procfile without extension.
 
 Get your guild ID from the discord server and replace within the code bot.py: <discord-server-id>
   
-Get your channel IDs from your discord server and replace within the code bot.py: <signupchannel-id>, <botchannel-id>
+Get your channel IDs from your discord server and replace within the code bot.py: 
+<signupchannel-id>, <botchannel-id>
   
-Make sure to upload custom emoji to your discord server and use correct ids in the bot.py: <emoji-tank-id>, <emoji-heal-id>, <emoji-dd-id>, <emoji-decline-id>, <emoji-decline-name>
+Make sure to upload custom emoji to your discord server and use correct ids in the bot.py: 
+<emoji-tank-id>, <emoji-heal-id>, <emoji-dd-id>, <emoji-decline-id>, <emoji-decline-name>
   
 Get your discord bot token from the developer portal and add to bot.py: <your_bot_token>
